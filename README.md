@@ -3,5 +3,5 @@
 最新版は以下からダウンロードください。  
 https://github.com/godel-notes/godel-incompleteness-ja/releases
 #### godel-incompleteness-ja
-#### DOI
+DOI 
 https://doi.org/10.5281/zenodo.19369161
