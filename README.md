@@ -6,6 +6,5 @@
 <!-- 一般向けの不完全性定理の解説書では飽き足らず、かと言って、厳密な証明は敷居が高いと感じている方を対象に、多くの人に馴染みのある「嘘つきのパラドックス」からはじめて、第一不完全性定理を丁寧に証明しました。 --> 
 最新版は以下からダウンロードください。  
 https://github.com/godel-notes/godel-incompleteness-ja/releases
-#### godel-incompleteness-ja
 DOI: 
 https://doi.org/10.5281/zenodo.19369161
