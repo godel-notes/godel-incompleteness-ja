@@ -1,4 +1,3 @@
-![OGPテスト](/godel-incompleteness-ja/ogp.png)
 ---
 title: ゲーデルの不完全性定理をわかりやすく丁寧に証明｜嘘つきのパラドックスから解説
 description: 一般の方向けに、ゲーデルの第一不完全性定理の証明を、嘘つきのパラドックスから説き起こし、丁寧に解説した書籍です。
@@ -17,3 +16,5 @@ layout: default
 - [DOI(Zenodo)](https://doi.org/10.5281/zenodo.19369161)
 - [GitHub Relaeses](https://github.com/godel-notes/godel-incompleteness-ja/releases)
 - [ResearchGate](https://www.researchgate.net/publication/403437736_xutsukinoparadokkusukarashuokiqikosugederunobuwanquanxingdingli)
+
+![OGPテスト](/godel-incompleteness-ja/ogp.png)
