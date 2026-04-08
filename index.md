@@ -17,4 +17,6 @@ layout: default
 - [GitHub Relaeses](https://github.com/godel-notes/godel-incompleteness-ja/releases)
 - [ResearchGate](https://www.researchgate.net/publication/403437736_xutsukinoparadokkusukarashuokiqikosugederunobuwanquanxingdingli)
 
+<!--
 ![OGPテスト](/godel-incompleteness-ja/ogp.png)
+-->
