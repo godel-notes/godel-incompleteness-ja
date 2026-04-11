@@ -14,7 +14,7 @@ layout: default
   
 最新版は以下からダウンロードください。
 - [DOI(Zenodo)](https://doi.org/10.5281/zenodo.19369161)
-- [GitHub Relaeses](https://github.com/godel-notes/godel-incompleteness-ja/releases)
+- [GitHub Relaeses](https://godel-notes.github.io/godel-incompleteness-ja/godel-1-okabe.pdf))
 - [ResearchGate](https://www.researchgate.net/publication/403437736_xutsukinoparadokkusukarashuokiqikosugederunobuwanquanxingdingli)
 
 <!--
