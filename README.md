@@ -5,7 +5,7 @@
 また、ゲーデルの生涯、不完全性定理の意味を理解するうえで重要なヒルベルト・プログラムを中心とする時代背景についても冒頭に1章を割いてまとめています。  
 <!-- 一般向けの不完全性定理の解説書では飽き足らず、かと言って、厳密な証明は敷居が高いと感じている方を対象に、多くの人に馴染みのある「嘘つきのパラドックス」からはじめて、第一不完全性定理を丁寧に証明しました。 --> 
 
-以下からダウンロードください。
+以下からダウンロード可能(無料)です。
 - [GitHub](https://godel-notes.github.io/godel-incompleteness-ja/godel-1-okabe.pdf)
 - [ResearchGate](https://www.researchgate.net/publication/403437736_xutsukinoparadokkusukarashuokiqikosugederunobuwanquanxingdingli)
 - [DOI(Zenodo)](https://doi.org/10.5281/zenodo.19369161)
