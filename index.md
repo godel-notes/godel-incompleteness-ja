@@ -38,10 +38,12 @@ layout: default
 
 ## ダウンロード（無料）
 
-以下からダウンロード可能です。スマホの場合は Xodo PDFリーダーで読むことをお薦めします。内部リンク先から1クリックで戻れます。
+以下からダウンロード可能です。
 - [GitHub](https://godel-notes.github.io/godel-incompleteness-ja/godel-1-okabe.pdf)
 - [ResearchGate](https://www.researchgate.net/publication/403437736_xutsukinoparadokkusukarashuokiqikosugederunobuwanquanxingdingli)
 - [DOI(Zenodo)](https://doi.org/10.5281/zenodo.19369161)
+
+スマホでは Xodo PDFリーダーで、PCでは Acrobat Readerで、読むことをお薦めします。リンク先から簡単に元に戻れます。
 
 ---
 
