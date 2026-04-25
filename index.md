@@ -43,7 +43,7 @@ layout: default
 - [ResearchGate](https://www.researchgate.net/publication/403437736_xutsukinoparadokkusukarashuokiqikosugederunobuwanquanxingdingli)
 - [DOI(Zenodo)](https://doi.org/10.5281/zenodo.19369161)
 
-スマホでは Xodo PDFリーダーで、PCでは Acrobat Readerで、読むことをお薦めします。リンク先から簡単に元に戻れます。
+閲覧ソフトは、Xodo PDFリーダー(スマホ)、Acrobat Reader(PC)をお勧めします。リンク先から簡単に戻れます(スマホではAcrobat Reader等ではリンク先から戻れません)。
 
 ---
 
