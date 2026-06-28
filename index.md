@@ -39,7 +39,7 @@ layout: default
 ## ダウンロード（無料）
 
 以下からダウンロード可能です。
-- [ResearchGate](https://www.researchgate.net/publication/403437736_xutsukinoparadokkusukarashuokiqikosugederunobuwanquanxingdingli)
+- [ResearchGate](https://www.researchgate.net/publication/403437736)
 - [GitHub](https://godel-notes.github.io/godel-incompleteness-ja/godel-1-okabe.pdf)
 - [DOI(Zenodo)](https://doi.org/10.5281/zenodo.19369161)
 
